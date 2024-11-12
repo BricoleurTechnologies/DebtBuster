@@ -1,0 +1,2365 @@
+<apex:page >
+ <table>
+<tbody>
+<tr>
+<td colspan="2" width="463">
+<p>Paragraph 185C(2)(aa)<br /> Bankruptcy Act 1966 <br /> <br /> 10/02/12</p>
+</td>
+<td colspan="4" rowspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td width="212">
+<h3>Ofﬁce Use Only</h3>
+</td>
+<td width="251">
+<p><strong>&nbsp;</strong></p>
+</td>
+</tr>
+<tr>
+<td width="212">
+<h3>Date Lodged</h3>
+</td>
+<td width="251">
+<p>&nbsp;</p>
+</td>
+<td width="147">
+<h3>Event No.</h3>
+</td>
+<td width="316">
+<p>&nbsp;</p>
+</td>
+<td width="154">
+<h3>Admin No.</h3>
+</td>
+<td width="309">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>Debt Agreement Proposal and Explanatory Statement</h1>
+<h1>The terms of this debt agreement proposal include the provisions of section 185C of the Bankruptcy Act.&nbsp; Dishonour charges incurred in the</h1>
+<p>administration of the agreement with an authorised deposit-taking institution, such as a bank, will be recovered from the debtor&rsquo;s payments.</p>
+<h2>Personal details</h2>
+<table width="100%">
+<tbody>
+<tr>
+<td width="270">
+<p>Surname</p>
+</td>
+<td colspan="4" width="827">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="129">
+<p>Title</p>
+</td>
+<td width="163">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="270">
+<p>Given Name/s</p>
+</td>
+<td colspan="6" width="1120">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="695">
+<p>Other Surnames Names Used&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="5" width="695">
+<p>Other Given Names/s Used&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="270">
+<p>Date of Birth</p>
+</td>
+<td colspan="2" width="484">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="301">
+<p>Drivers Licence Number</p>
+</td>
+<td colspan="3" width="335">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="270">
+<p>Residential Address</p>
+</td>
+<td colspan="4" width="827">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="129">
+<p>Postcode</p>
+</td>
+<td width="163">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="270">
+<p>Postal Address</p>
+</td>
+<td colspan="4" width="827">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="129">
+<p>Postcode</p>
+</td>
+<td width="163">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="169">&nbsp;</td>
+<td width="166">&nbsp;</td>
+<td width="19">&nbsp;</td>
+<td width="153">&nbsp;</td>
+<td width="11">&nbsp;</td>
+<td width="121">&nbsp;</td>
+<td width="107">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<h2>Debtor&rsquo;s debt agreement proposal to creditors</h2>
+<table width="100%">
+<tbody>
+<tr>
+<td colspan="3" width="1097">
+<h3>If the proposal involves making periodic payments or lump sums, please detail below.</h3>
+</td>
+<td colspan="2" rowspan="2" width="293">
+<h3>Total value of payments</h3>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p>Number of payments</p>
+</td>
+<td width="452">
+<p>Weekly/fortnightly/monthly</p>
+</td>
+<td width="343">
+<p>Amount of each payment</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="452">&nbsp;</td>
+<td width="343">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="47">
+<p>$</p>
+</td>
+<td width="246">
+<p>0.00</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="452">&nbsp;</td>
+<td width="343">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="47">
+<p>$</p>
+</td>
+<td width="246">
+<p>0.00</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="452">&nbsp;</td>
+<td width="343">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="47">
+<p>$</p>
+</td>
+<td width="246">
+<p>0.00</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="452">&nbsp;</td>
+<td width="343">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="47">
+<p>$</p>
+</td>
+<td width="246">
+<p>0.00</p>
+</td>
+</tr>
+<tr>
+<td width="302">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="452">&nbsp;</td>
+<td width="343">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="47">
+<p>$</p>
+</td>
+<td width="246">
+<p>0.00</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="1097">
+<h3>Total amount offered in the proposal</h3>
+</td>
+<td width="47">
+<h3>$</h3>
+</td>
+<td width="246">
+<h3>0.00</h3>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="100%">
+<tbody>
+<tr>
+<td width="754">
+<p>less Realisations charge payable to Australian Government</p>
+</td>
+<td width="294">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="50">
+<p>%</p>
+</td>
+<td width="47">
+<p>$</p>
+</td>
+<td width="245">
+<p>0.00</p>
+</td>
+</tr>
+<tr>
+<td width="754">
+<p>less Fees for administrator to administer debt agreement</p>
+</td>
+<td width="294">
+<p>16.00</p>
+</td>
+<td width="50">
+<p>%</p>
+</td>
+<td width="47">
+<p>$</p>
+</td>
+<td width="245">
+<p>0.00</p>
+</td>
+</tr>
+<tr>
+<td width="754">
+<p>less Allowable expenses payable to third party</p>
+</td>
+<td width="294">
+<p>0.00</p>
+</td>
+<td width="50">
+<p>%</p>
+</td>
+<td width="47">
+<p>$</p>
+</td>
+<td width="245">
+<p>0.00</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="100%">
+<tbody>
+<tr>
+<td width="1097">
+<p>equals TOTAL amount to be distributed proportionately for unsecured debts</p>
+</td>
+<td width="47">
+<p>$</p>
+</td>
+<td width="246">
+<p>0.00</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="99%">
+<tbody>
+<tr>
+<td width="1097">
+<p>Date of debtor&rsquo;s ﬁrst payment to administrator</p>
+</td>
+<td width="291">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1097">
+<p>Date first dividend will be paid to creditors</p>
+</td>
+<td width="291">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1097">
+<p>Dividend frequency</p>
+</td>
+<td width="291">&nbsp;</td>
+</tr>
+<tr>
+<td width="1097">
+<p>Date debtor will complete debt agreement (all payments and obligations completed)</p>
+</td>
+<td width="291">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1097">
+<p>Estimated dividend based on debtor&rsquo;s list of unsecured debts &ndash; secured debt shortfall included</p>
+</td>
+<td width="291">
+<p>&nbsp;&nbsp;&nbsp;%</p>
+</td>
+</tr>
+<tr>
+<td width="1097">
+<p>Estimated dividend excluding secured creditors choosing not to participate until loss incurred</p>
+</td>
+<td width="291">
+<p>&nbsp;&nbsp;&nbsp;%</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="1388">
+<p>Secured creditors choosing not to be paid a dividend on their estimated shortfall prior to loss incurred</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="1388">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="1388">
+<p><strong>Source of lump sum payment or details of property to be sold </strong>(description, value and expected net proceeds<strong>)</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="1388">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="1388">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Conditions</h2>
+<table width="100%">
+<tbody>
+<tr>
+<td width="1389">
+<p>Is proposal subject to conditions to be met within seven days of the deadline for voting?&nbsp;&nbsp; &nbsp;Yes&nbsp;&nbsp; &nbsp;No&nbsp;&nbsp; If yes, provide details&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1389">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Debtor. &nbsp;I understand I will be released from my debts only when I have made all payments and completed all my obligations under the debt agreement. &nbsp;I authorise the administrator identiﬁed below to deal with any property under the agreement, to act as my agent in seeking access to information held by creditors about me, and to give and receive personal information in connection with my ﬁnancial affairs.&nbsp; I approve the fees payable to the administrator as shown above.</p>
+<p>&nbsp;</p>
+<p>The personal information collected by the Official Receiver in this form may be passed to your nominated debt agreement administrator if your debt agreement proposal is / is not accepted to send to creditors for voting; or where voting is later cancelled by the Official Receiver.</p>
+<p>&nbsp;</p>
+<table width="100%">
+<tbody>
+<tr>
+<td colspan="3" width="1389">
+<p>Debtor Name (please print) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="824">
+<p>Signature</p>
+</td>
+<td width="273">
+<p>Date signed</p>
+</td>
+<td width="293">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="100%">
+<tbody>
+<tr>
+<td width="824">
+<p>Name of administrator&nbsp; DEBT BUSTERS PTY LTD</p>
+</td>
+<td width="273">
+<p>Registration number</p>
+</td>
+<td width="293">
+<p>1287</p>
+</td>
+</tr>
+<tr>
+<td width="824">
+<p>Signature</p>
+</td>
+<td width="273">
+<p>Date signed</p>
+</td>
+<td width="293">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h1>Explanatory Statement</h1>
+<p>The purpose of the Explanatory Statement is to give the necessary information to your creditors for them to consider your proposal and make a decision on their vote.</p>
+<p>&nbsp;</p>
+<table width="100%">
+<tbody>
+<tr>
+<td rowspan="2" width="1002">
+<p>A.&nbsp; &nbsp;Set up fees paid or payable to administrator and broker for the provision of information<br /> and preparation of this debt agreement proposal to the time of lodgement.</p>
+</td>
+<td colspan="2" width="388">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="43">
+<p>$</p>
+</td>
+<td width="345">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="100%">
+<tbody>
+<tr>
+<td width="1002">
+<p>B.&nbsp; &nbsp;Are you insolvent? i.e. unable to pay your debts as and when they fall due</p>
+</td>
+<td width="388">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;No&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>What circumstances led you to become unable to pay your debts?</p>
+<table width="102%">
+<tbody>
+<tr>
+<td width="462">
+<p>&nbsp;Loss of employment</p>
+</td>
+<td width="467">
+<p>&nbsp;Loss of employment by partner</p>
+</td>
+<td width="501">
+<p>&nbsp;Over commitment of credit</p>
+</td>
+</tr>
+<tr>
+<td width="462">
+<p>&nbsp;Reduction of overtime</p>
+</td>
+<td width="467">
+<p>&nbsp;Lost second job</p>
+</td>
+<td width="501">
+<p>&nbsp;Birth of child</p>
+</td>
+</tr>
+<tr>
+<td width="462">
+<p>&nbsp;Illness</p>
+</td>
+<td width="467">
+<p>&nbsp;Relationship breakdown</p>
+</td>
+<td width="501">
+<p>&nbsp;Death of a relative</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="1430">
+<p>&nbsp;Other: please specify&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="1430">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>What steps have you taken to manage your debt?</p>
+<table width="102%">
+<tbody>
+<tr style="height: 35px;">
+<td style="height: 35px;" width="854">
+<p>&nbsp;Spoken with ﬁnancial counsellor</p>
+</td>
+<td style="height: 35px;" width="576">
+<p>&nbsp;Spoken with debt agreement administrator</p>
+</td>
+</tr>
+<tr style="height: 35px;">
+<td style="height: 35px;" width="854">
+<p>&nbsp;Contacted your major creditors to obtain relief or hardship assistance</p>
+</td>
+<td style="height: 35px;" width="576">
+<p>&nbsp;Applied for refinancing</p>
+</td>
+</tr>
+<tr style="height: 35.7969px;">
+<td style="height: 35.7969px;" colspan="2" width="1430">
+<p>&nbsp;Other: please specify&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr style="height: 35px;">
+<td style="height: 35px;" colspan="2" width="1430">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="102%">
+<tbody>
+<tr>
+<td width="1097">
+<p>Do you expect a substantial change to your income or household expenses in the next 12 months?</p>
+</td>
+<td width="333">
+<p>&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;No&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="1430">
+<p>If yes, explain how and when &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="1430">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="1430">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ol>
+<li>Assets and Secured Creditors</li>
+</ol>
+<table width="103%">
+<tbody>
+<tr>
+<td colspan="6" width="77%">
+<p>Unsecured Assets &nbsp;&ndash; Description (eg. shares, real estate address details, vehicle details)</p>
+</td>
+<td colspan="3" width="11%">
+<p>Estimated Total Value</p>
+</td>
+<td width="11%">
+<p>Percentage Owned</p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="77%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="11%">
+<p>&nbsp;&nbsp;&nbsp;%</p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="77%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="11%">
+<p>&nbsp;&nbsp;&nbsp;%</p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="77%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="11%">
+<p>&nbsp;&nbsp;&nbsp;%</p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="77%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="11%">
+<p>&nbsp;&nbsp;&nbsp;%</p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="77%">
+<p>Secured Assets &ndash; Description (eg. shares, real estate address details, vehicle details)</p>
+</td>
+<td colspan="3" width="11%">
+<p>Estimated Total Value</p>
+</td>
+<td width="11%">
+<p>Percentage Owned</p>
+</td>
+</tr>
+<tr>
+<td width="3%">
+<p>1</p>
+</td>
+<td colspan="5" width="73%">
+<p>NIL</p>
+</td>
+<td colspan="3" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="11%">
+<p>&nbsp;&nbsp;&nbsp;%</p>
+</td>
+</tr>
+<tr>
+<td width="3%">
+<p>2</p>
+</td>
+<td colspan="5" width="73%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="11%">
+<p>&nbsp;&nbsp;&nbsp;%</p>
+</td>
+</tr>
+<tr>
+<td width="3%">
+<p>3</p>
+</td>
+<td colspan="5" width="73%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="11%">
+<p>&nbsp;&nbsp;&nbsp;%</p>
+</td>
+</tr>
+<tr>
+<td width="3%">
+<p>4</p>
+</td>
+<td colspan="5" width="73%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="11%">
+<p>&nbsp;&nbsp;&nbsp;%</p>
+</td>
+</tr>
+<tr>
+<td colspan="10" width="100%">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="23%">
+<p>Secured Creditor Name</p>
+</td>
+<td colspan="2" width="32%">
+<p>Secured Creditor Postal Address /</p>
+<p>Email Address</p>
+</td>
+<td width="15%">
+<p>Reference/ Account Number</p>
+</td>
+<td width="5%">
+<p><strong>Joint</strong></p>
+<p><strong>Debt?</strong></p>
+</td>
+<td colspan="3" width="11%">
+<p>Amount Owed</p>
+</td>
+<td width="11%">
+<p>Surplus/ Shortfall</p>
+</td>
+</tr>
+<tr>
+<td width="3%">
+<p>&nbsp;1</p>
+</td>
+<td width="19%">
+<p>NIL</p>
+</td>
+<td colspan="2" width="32%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="5%">&nbsp;</td>
+<td colspan="3" rowspan="2" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="15%">&nbsp;</td>
+<td width="16%">
+<p><strong>Status</strong></p>
+</td>
+<td width="15%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="23%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td colspan="2" width="32%">&nbsp;</td>
+<td colspan="6" width="44%">
+<p><strong>Participating in dividends on estimated shortfall? </strong>&nbsp;Yes&nbsp;&nbsp; No&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="3%">
+<p>2&nbsp;</p>
+</td>
+<td width="19%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="32%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="5%">&nbsp;</td>
+<td colspan="3" rowspan="2" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="15%">&nbsp;</td>
+<td width="16%">
+<p><strong>Status</strong></p>
+</td>
+<td width="15%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="23%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td colspan="2" width="32%">&nbsp;</td>
+<td colspan="6" width="44%">
+<p><strong>Participating in dividends on estimated shortfall?&nbsp; </strong>&nbsp;Yes&nbsp; &nbsp;No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="3%">
+<p>3&nbsp;</p>
+</td>
+<td width="19%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="32%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="5%">&nbsp;</td>
+<td colspan="3" rowspan="2" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="15%">&nbsp;</td>
+<td width="16%">
+<p><strong>Status</strong></p>
+</td>
+<td width="15%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="23%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td colspan="2" width="32%">&nbsp;</td>
+<td colspan="6" width="44%">
+<p><strong>Participating in dividends on estimated shortfall?&nbsp;&nbsp; </strong>&nbsp;Yes &nbsp;No&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="3%">
+<p>4&nbsp;</p>
+</td>
+<td width="19%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="32%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="5%">&nbsp;</td>
+<td colspan="3" rowspan="2" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="11%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="15%">&nbsp;</td>
+<td width="16%">
+<p><strong>Status</strong></p>
+</td>
+<td width="15%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="23%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td colspan="2" width="32%">&nbsp;</td>
+<td colspan="6" width="44%">
+<p><strong>Participating in dividends on estimated shortfall?&nbsp;&nbsp;&nbsp; </strong>&nbsp;Yes No&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="7" width="84%">
+<p>Item C - Total amount of unsecured shortfall</p>
+</td>
+<td width="3%">
+<p><strong>$</strong></p>
+</td>
+<td colspan="2" width="11%">
+<p><strong>0.00</strong></p>
+</td>
+</tr>
+<tr>
+<td width="41">&nbsp;</td>
+<td width="89">&nbsp;</td>
+<td width="140">&nbsp;</td>
+<td width="94">&nbsp;</td>
+<td width="140">&nbsp;</td>
+<td width="75">&nbsp;</td>
+<td width="86">&nbsp;</td>
+<td width="41">&nbsp;</td>
+<td width="1">&nbsp;</td>
+<td width="139">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ol>
+<li>Unsecured debts (List all creditors)</li>
+</ol>
+<table width="104%">
+<tbody>
+<tr>
+<td colspan="3" width="23%">
+<p>Unsecured Creditor Name</p>
+</td>
+<td colspan="2" width="35%">
+<p>Unsecured Creditor Postal Address /</p>
+<p>Email Address</p>
+</td>
+<td width="18%">
+<p>Reference/Account Number</p>
+</td>
+<td width="9%">
+<p>Status</p>
+<p>&nbsp;</p>
+</td>
+<td width="3%">
+<p>Joint</p>
+<p>Debt?</p>
+</td>
+<td width="10%">
+<p>Amount Owed</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="4%">
+<p>1</p>
+</td>
+<td width="18%">
+<p>DEBT BUSTERS</p>
+</td>
+<td colspan="2" width="35%">
+<p>PO BOX 868</p>
+<p>REDCLIFFE QLD 4020</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="4%">
+<p>2</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="4%">
+<p>3</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="4%">
+<p>4</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="4%">
+<p>5</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="4%">
+<p>6</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="4%">
+<p>7</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="4%">
+<p>8</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="2" width="4%">
+<p>9</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td width="4%">
+<p>10</p>
+</td>
+<td colspan="2" width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td width="4%">
+<p>11</p>
+</td>
+<td colspan="2" width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td width="4%">
+<p>12</p>
+</td>
+<td colspan="2" width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td width="4%">
+<p>13</p>
+</td>
+<td colspan="2" width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td width="4%">
+<p>14</p>
+</td>
+<td colspan="2" width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td width="4%">
+<p>15</p>
+</td>
+<td colspan="2" width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="35%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="18%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="2" width="9%">&nbsp;</td>
+<td rowspan="2" width="3%">&nbsp;</td>
+<td rowspan="2" width="10%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="23%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="19%">&nbsp;</td>
+<td width="15%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td width="18%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="7" width="86%">
+<p>Item D - Total amount of unsecured debt</p>
+</td>
+<td width="3%">
+<p>$</p>
+</td>
+<td width="10%">
+<p><strong>0.00</strong></p>
+</td>
+</tr>
+<tr>
+<td width="53">&nbsp;</td>
+<td width="1">&nbsp;</td>
+<td width="128">&nbsp;</td>
+<td width="140">&nbsp;</td>
+<td width="95">&nbsp;</td>
+<td width="212">&nbsp;</td>
+<td width="119">&nbsp;</td>
+<td width="55">&nbsp;</td>
+<td width="89">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><em>&nbsp;</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ol>
+<li>Creditors not to be paid a dividend by law in the debt agreement</li>
+</ol>
+<p>Non-provable debts such as fines<em>, </em>higher education debts and unliquidated damages from car accidents.</p>
+<p>Also includes guaranteed and contingent debts at the time you completed the Explanatory Statement</p>
+<table width="1431">
+<tbody>
+<tr>
+<td colspan="2" width="22%">
+<p>Creditor Name</p>
+</td>
+<td colspan="2" width="44%">
+<p>Creditor Postal Address / Email Address</p>
+</td>
+<td colspan="3" width="20%">
+<p>Reference/Account No.</p>
+</td>
+<td colspan="2" width="12%">
+<p>Amount Owed</p>
+</td>
+</tr>
+<tr>
+<td width="3%">
+<p>1</p>
+</td>
+<td width="19%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="44%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="20%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" rowspan="2" width="12%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="22%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="24%">&nbsp;</td>
+<td width="19%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td colspan="3" width="20%">&nbsp;</td>
+</tr>
+<tr>
+<td width="3%">
+<p>2</p>
+</td>
+<td width="19%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="44%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="20%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" rowspan="2" width="12%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="22%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="24%">&nbsp;</td>
+<td width="19%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td colspan="3" width="20%">&nbsp;</td>
+</tr>
+<tr>
+<td width="3%">
+<p>3</p>
+</td>
+<td width="19%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="44%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="20%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" rowspan="2" width="12%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="22%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="24%">&nbsp;</td>
+<td width="19%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td colspan="3" width="20%">&nbsp;</td>
+</tr>
+<tr>
+<td width="3%">
+<p>4</p>
+</td>
+<td width="19%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="44%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="20%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" rowspan="2" width="12%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="22%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="24%">&nbsp;</td>
+<td width="19%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td colspan="3" width="20%">&nbsp;</td>
+</tr>
+<tr>
+<td width="3%">
+<p>5</p>
+</td>
+<td width="19%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="44%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="3" width="20%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" rowspan="2" width="12%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="22%">
+<p><strong>Creditor Type</strong></p>
+</td>
+<td width="24%">&nbsp;</td>
+<td width="19%">
+<p><strong>Nature of debt</strong></p>
+</td>
+<td colspan="3" width="20%">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="8" width="99%">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="0%">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="82%">
+<p>Item E - Total amount of debt owed to creditors not to be paid a dividend by law in the debt agreement</p>
+</td>
+<td width="3%">
+<p>$</p>
+</td>
+<td colspan="2" width="13%">
+<p><strong>0.00</strong></p>
+</td>
+<td width="0%">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="82%">
+<p>Item C - Total amount of unsecured shortfall</p>
+</td>
+<td width="3%">
+<p>$</p>
+</td>
+<td colspan="2" width="13%">
+<p><strong>0.00</strong></p>
+</td>
+<td width="0%">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="82%">
+<p>Item D - Total amount of unsecured debt</p>
+</td>
+<td width="3%">
+<p>$</p>
+</td>
+<td colspan="2" width="13%">
+<p><strong>0.00</strong></p>
+</td>
+<td width="0%">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="82%">
+<p><strong>Total amount of debt (Item C + Item D + Item E)</strong></p>
+</td>
+<td width="3%">
+<p>$</p>
+</td>
+<td colspan="2" width="13%">
+<p><strong>0.00</strong></p>
+</td>
+<td width="0%">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="46">&nbsp;</td>
+<td width="280">&nbsp;</td>
+<td width="348">&nbsp;</td>
+<td width="284">&nbsp;</td>
+<td width="224">&nbsp;</td>
+<td width="48">&nbsp;</td>
+<td width="17">&nbsp;</td>
+<td width="182">&nbsp;</td>
+<td width="1">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<ol>
+<li>Related creditors included at Item C, D and E</li>
+</ol>
+<table width="102%">
+<tbody>
+<tr>
+<td colspan="3" width="781">
+<p>Are any creditors included at C, D and E, a related entity to you?</p>
+</td>
+<td colspan="2" width="649">
+<p>&nbsp;Yes&nbsp; &nbsp;No&nbsp;&nbsp;&nbsp; If yes, provide details below.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="781">
+<p>Did a related creditor purchase the debt?</p>
+</td>
+<td colspan="2" width="649">
+<p>&nbsp;Yes&nbsp; &nbsp;No&nbsp;&nbsp;&nbsp; If yes, show amount paid for debt.</p>
+</td>
+</tr>
+<tr>
+<td width="347">
+<p>Related Creditor Name</p>
+</td>
+<td width="349">
+<p>Relationship to you</p>
+</td>
+<td colspan="2" width="347">
+<p>Amount of debt</p>
+</td>
+<td width="388">
+<p>Amount paid for debt</p>
+</td>
+</tr>
+<tr>
+<td width="347">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="349">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="347">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="388">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="347">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="349">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="347">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="388">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="347">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="349">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="347">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="388">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="182">&nbsp;</td>
+<td width="212">&nbsp;</td>
+<td width="51">&nbsp;</td>
+<td width="130">&nbsp;</td>
+<td width="194">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="103%">
+<tbody>
+<tr>
+<td colspan="8" width="73%">
+<p>G. Occupation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Current job description</p>
+</td>
+<td colspan="4" width="26%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="32%">
+<p>&nbsp;Full time</p>
+</td>
+<td colspan="3" width="33%">
+<p>&nbsp;Unemployed / sickness / disability</p>
+</td>
+<td colspan="8" width="34%">
+<p>&nbsp;Self-employed</p>
+</td>
+</tr>
+<tr>
+<td width="32%">
+<p>&nbsp;Part time</p>
+</td>
+<td colspan="3" width="33%">
+<p>&nbsp;Casual</p>
+</td>
+<td colspan="8" width="34%">
+<p>&nbsp;Home duties</p>
+</td>
+</tr>
+<tr>
+<td width="32%">
+<p>&nbsp;Seasonal</p>
+</td>
+<td colspan="3" width="33%">
+<p>&nbsp;Contract</p>
+</td>
+<td colspan="8" width="34%">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="9" width="75%">
+<p>&nbsp;</p>
+</td>
+<td colspan="3" width="25%">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="69%">
+<p>H.&nbsp; Debtor&rsquo;s taxable income less income tax and medicare levy expected in the next 12 months</p>
+</td>
+<td colspan="5" width="19%">
+<p>$&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="11%">
+<p>Per annum</p>
+</td>
+</tr>
+<tr>
+<td colspan="12" width="100%">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="12" width="100%">
+<p>I.&nbsp;&nbsp;&nbsp; Debtor&rsquo;s expected income from all sources in the next 12 months</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="59%">
+<p>&nbsp;</p>
+</td>
+<td colspan="5" width="11%">
+<p>&nbsp;Weekly</p>
+</td>
+<td colspan="3" width="14%">
+<p>&nbsp;Fortnightly</p>
+</td>
+<td colspan="2" width="14%">
+<p>&nbsp;Monthly</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="64%">
+<p>Wages after tax</p>
+</td>
+<td colspan="2" width="4%">
+<p>$</p>
+</td>
+<td colspan="7" width="31%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="64%">
+<p>Allowances, overtime, fringe beneﬁts, salary sacrifice income, trust distributions</p>
+</td>
+<td colspan="2" width="4%">
+<p>$</p>
+</td>
+<td colspan="7" width="31%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="64%">
+<p>Taxable Centrelink beneﬁts</p>
+</td>
+<td colspan="2" width="4%">
+<p>$</p>
+</td>
+<td colspan="7" width="31%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="64%">
+<p>Non-Taxable Centrelink beneﬁts</p>
+</td>
+<td colspan="2" width="4%">
+<p>$</p>
+</td>
+<td colspan="7" width="31%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="64%">
+<p>Regular income from tenants for rent, income from investment and interest</p>
+</td>
+<td colspan="2" width="4%">
+<p>$</p>
+</td>
+<td colspan="7" width="31%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="64%">
+<p>After tax income from second jobs</p>
+</td>
+<td colspan="2" width="4%">
+<p>$</p>
+</td>
+<td colspan="7" width="31%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="64%">
+<p>Child/spouse maintenance received</p>
+</td>
+<td colspan="2" width="4%">
+<p>$</p>
+</td>
+<td colspan="7" width="31%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="64%">
+<p>Other</p>
+</td>
+<td colspan="2" width="4%">
+<p>$</p>
+</td>
+<td colspan="7" width="31%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="64%">
+<p><strong>Total Income</strong></p>
+</td>
+<td colspan="2" width="4%">
+<p>$</p>
+</td>
+<td colspan="7" width="31%">
+<p><strong>0.00</strong></p>
+</td>
+</tr>
+<tr>
+<td width="236">&nbsp;</td>
+<td width="192">&nbsp;</td>
+<td width="43">&nbsp;</td>
+<td width="9">&nbsp;</td>
+<td width="31">&nbsp;</td>
+<td width="3">&nbsp;</td>
+<td width="19">&nbsp;</td>
+<td width="21">&nbsp;</td>
+<td width="12">&nbsp;</td>
+<td width="97">&nbsp;</td>
+<td width="11">&nbsp;</td>
+<td width="95">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<ol>
+<li>Support from others to help with payments offered in proposal e.g. free rent and/or board, funds to be made available by partner and/or third parties</li>
+</ol>
+<table width="103%">
+<tbody>
+<tr>
+<td width="204">
+<p>Please specify:</p>
+</td>
+<td colspan="5" width="1227">
+<p>NIL</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="926">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td colspan="2" width="222">
+<p><strong>Total Support</strong></p>
+</td>
+<td width="57">
+<p>$</p>
+</td>
+<td width="226">
+<p><strong>0.00</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="6" width="1431">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="1055">
+<p>K.&nbsp; Dependants: how many people are dependent on you for support</p>
+</td>
+<td colspan="3" width="376">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="147">&nbsp;</td>
+<td width="289">&nbsp;</td>
+<td width="99">&nbsp;</td>
+<td width="57">&nbsp;</td>
+<td width="47">&nbsp;</td>
+<td width="131">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="103%">
+<tbody>
+<tr>
+<td colspan="2" width="56%">
+<p>L.&nbsp; Expected expenses for the next 12 months</p>
+</td>
+<td colspan="2" width="13%">
+<p>&nbsp;Weekly</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;Fortnightly</p>
+</td>
+<td width="13%">
+<p>&nbsp;Monthly</p>
+</td>
+</tr>
+<tr>
+<td width="21%">
+<h3>Total household expenses</h3>
+</td>
+<td colspan="2" width="35%">
+<h3>Debtor&rsquo;s equal share of household expenses</h3>
+</td>
+<td colspan="4" width="43%">
+<h3>Debtor&rsquo;s contribution towards household expenses</h3>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<h3>Description</h3>
+</td>
+<td colspan="2" width="15%">
+<h3>$</h3>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Rent for accommodation</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Board</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Mortgage payment</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Rates</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Home maintenance</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Food including groceries and take away</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Phone + mobile + internet</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Entertainment, pay TV</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Electricity, gas, water</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Health insurance</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Medical / chemist</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Car payments to secured creditor</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Car fuel, registration, insurance, maintenance</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Transport</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Other insurance</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>School fees and expenses</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Child care</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Child support and maintenance</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Other expenses for children eg sport, music, lessons, presents</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Clothes, shoes, hairdressing</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Incidentals: e.g. cigarettes, books, magazines</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Payments to creditors not receiving a dividend by law in the debt agreement</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Other payments to secured creditors</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Rental payments for household goods</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Other household expenses</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<h3>Total household expenses</h3>
+</td>
+<td colspan="2" width="15%">
+<h3>0.00</h3>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<h3>Total uncommitted income</h3>
+</td>
+<td colspan="2" width="15%">
+<h3>0.00</h3>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<p>Debtors expense for supporting partners&rsquo; Debt Agreement Proposal</p>
+</td>
+<td colspan="2" width="15%">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="84%">
+<h3>Uncommitted income</h3>
+</td>
+<td colspan="2" width="15%">
+<h3>0.00</h3>
+</td>
+</tr>
+<tr>
+<td width="163">&nbsp;</td>
+<td width="267">&nbsp;</td>
+<td width="4">&nbsp;</td>
+<td width="100">&nbsp;</td>
+<td width="121">&nbsp;</td>
+<td width="9">&nbsp;</td>
+<td width="106">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<ol>
+<li>Debtor supporting statement: explain special needs of debtor/dependents</li>
+</ol>
+<p>E.g. unusually high expenditure for medical, travel to work, student expenses or other information your creditors should know.</p>
+<table width="103%">
+<tbody>
+<tr>
+<td width="1431">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1431">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1431">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1431">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1431">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1431">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1431">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1431">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1431">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>I understand that:</p>
+<ul>
+<li>My name, alias, address, date of birth and occupation will be entered on the public record &ndash; the National Personal Insolvency Index.</li>
+<li>The information above will be available to credit reporting businesses.</li>
+<li>Information about debt agreements and other options is available from ITSA&rsquo;s Information Service on 1300 364 785.</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p>The personal information collected by the Official Receiver in this form may be passed to your nominated debt agreement administrator if your debt agreement proposal is / is not accepted to send to creditors for voting; or where voting is later cancelled by the Official Receiver.</p>
+<p><strong><br /> I declare</strong> that the particulars set out in this statement are correct.</p>
+<p>Section 267 of the Bankruptcy Act provides that a person must not sign a declaration that the person knows to be false.</p>
+<p>Penalty: Imprisonment for 12 months</p>
+<table width="103%">
+<tbody>
+<tr>
+<td colspan="2" width="1431">
+<p>Debtor Name&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="1011">
+<p>Signature</p>
+</td>
+<td width="420">
+<p>Date signed&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</apex:page>
